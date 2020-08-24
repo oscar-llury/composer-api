@@ -1,0 +1,26 @@
+{
+    "name": "composer/v1",
+    "type": "library",
+    "description":"Demo v1 packaging with composer",
+    "keywords":[
+        "composer"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "oscar rivas",
+            "email": "orivas@supportfactory.net"
+        }
+    ],
+    "support":{
+        "source":"https://gitlab.supportfactory.net/orivas/composer-api"
+    },
+    "require": {
+        "php":"^7.0"
+    },
+    "autoload":{
+        "psr-4":{
+            "orivas\\composer-api\\Math\\":"src/"
+        }
+    }
+}
