@@ -20,7 +20,7 @@
     },
     "autoload":{
         "psr-4":{
-            "orm-composer-api":"src/"
+            "orm-composer-api\\":"src/"
         }
     }
 }
