@@ -1,9 +1,9 @@
 {
-    "name": "ORMComposerApi/v1",
+    "name": "orm-composer-api/v1",
     "type": "library",
     "description":"Demo v1 packaging with composer",
     "keywords":[
-        "ORMComposerApi"
+        "orm-composer-api"
     ],
     "license": "MIT",
     "authors": [
@@ -20,7 +20,7 @@
     },
     "autoload":{
         "psr-4":{
-            "ORMComposerApi":"src/"
+            "orm-composer-api":"src/"
         }
     }
 }
