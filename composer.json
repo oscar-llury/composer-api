@@ -3,7 +3,7 @@
     "type": "library",
     "description":"Demo v1 packaging with composer",
     "keywords":[
-        "composer"
+        "ORMcomposer"
     ],
     "license": "MIT",
     "authors": [
@@ -20,7 +20,7 @@
     },
     "autoload":{
         "psr-4":{
-            "oscar-llury\\composer-api\\Math\\":"src/"
+            "ORMComposerApi":"src/"
         }
     }
 }
