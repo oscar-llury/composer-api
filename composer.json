@@ -13,14 +13,14 @@
         }
     ],
     "support":{
-        "source":"https://gitlab.supportfactory.net/orivas/composer-api"
+        "source":"https://github.com/oscar-llury/composer-api"
     },
     "require": {
         "php":"^7.0"
     },
     "autoload":{
         "psr-4":{
-            "orivas\\composer-api\\Math\\":"src/"
+            "oscar-llury\\composer-api\\Math\\":"src/"
         }
     }
 }
