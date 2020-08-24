@@ -1,9 +1,9 @@
 {
-    "name": "composer/v1",
+    "name": "ORMComposerApi/v1",
     "type": "library",
     "description":"Demo v1 packaging with composer",
     "keywords":[
-        "ORMcomposer"
+        "ORMComposerApi"
     ],
     "license": "MIT",
     "authors": [
